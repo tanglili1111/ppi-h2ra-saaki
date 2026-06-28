@@ -18,9 +18,10 @@ keywords:
   - "MIMIC-IV"
   - "eICU"
   - "SICdb"
-# Uncomment and fill in once you cut a release and archive it on Zenodo:
-# version: "1.0.0"
-# date-released: "2026-06-29"
+Uncomment and fill in once you cut a release and archive it on Zenodo:
+version: "1.0.0"
+date-released: "2026-06-28"
+doi: "10.5281/zenodo.20986633"
 #
 # preferred-citation:
 #   type: article
