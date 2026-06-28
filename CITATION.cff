@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below. Replace the placeholder author, username, version, and DOI fields before publishing."
+title: "PPI vs. H2RA in sepsis-associated AKI: a target-trial emulation"
+abstract: "Analysis code for a target-trial emulation comparing proton-pump inhibitors with H2-receptor antagonists in sepsis-associated acute kidney injury (MIMIC-IV, with external validation in eICU and SICdb)."
+type: software
+authors:
+  - family-names: "Tang"
+    given-names: "Lili"
+    orcid: "https://orcid.org/0000-0002-6179-8920"
+    affiliation: "The Fifth Affiliated Hospital (Zhuhai) of Zunyi Medical University"
+repository-code: "https://github.com/tanglili1111/ppi-h2ra-saaki"
+license: MIT
+keywords:
+  - "causal inference"
+  - "target trial emulation"
+  - "pharmacoepidemiology"
+  - "sepsis-associated acute kidney injury"
+  - "MIMIC-IV"
+  - "eICU"
+  - "SICdb"
+# Uncomment and fill in once you cut a release and archive it on Zenodo:
+# version: "1.0.0"
+# date-released: "2026-06-29"
+#
+# preferred-citation:
+#   type: article
+#   title: "Proton Pump Inhibitor versus Histamine-2 Receptor Antagonist for Stress Ulcer Prophylaxis and Major Adverse Kidney Events in Sepsis-Associated Acute Kidney Injury: A Target Trial Emulation"
+#   authors:
+#     - family-names: "Tang"
+#       given-names: "Lili"
+#   year: 2026
+

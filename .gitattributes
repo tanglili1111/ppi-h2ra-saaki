@@ -1,0 +1,14 @@
+# Normalize line endings: store text files with LF in the repository.
+* text=auto eol=lf
+
+*.R   text eol=lf
+*.r   text eol=lf
+*.md  text eol=lf
+*.sql text eol=lf
+*.txt text eol=lf
+
+# Treat these as binary (no line-ending conversion, no diff)
+*.rds binary
+*.pdf binary
+*.png binary
+*.jpg binary
